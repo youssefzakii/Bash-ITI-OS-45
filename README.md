@@ -35,5 +35,3 @@ Each database is represented as a directory, while tables are stored as files wi
 - **File-based storage system**
 
 ---
-
-## 📂 Project Structure
